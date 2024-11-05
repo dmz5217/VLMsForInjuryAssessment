@@ -3,3 +3,6 @@ anthropic
 httpx
 python-dotenv
 pandas
+requests
+google-generativeai
+Pillow
